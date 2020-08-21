@@ -1,0 +1,9 @@
+p: 7
+q: 11
+n: 77
+phi: 60
+e: 7
+d: 43
+Plain Text: 72
+Cipher Text: 30
+DeCiphered Text: 72
