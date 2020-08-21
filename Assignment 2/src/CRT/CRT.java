@@ -22,6 +22,7 @@ public class CRT {
             this.a[i] = a[i];
             this.m[i] = m[i];
         }
+        //Calculate required Values
         getN();
         getNi();
         getXi();
@@ -55,14 +56,19 @@ public class CRT {
     }
 
     public static int getX(int[] a, int[] m){
+        //If arrays are not equivalent, return incorrect Value;
         if(a.length != m.length)
             return -1;
+        //Create object and feed it values.
         CRT obj = new CRT(a,m);
         long sum = 0;
+        //Calcualte the product of m, Ni, and Ni-inverse for each row,
+        //And Simultaneously keep track of Sum
         for(int i = 0 ; i<obj.m.length ; ++i){
             obj.prod[i] = (long)obj.a[i] * obj.Ni[i] * obj.Xi[i];
             sum+=obj.prod[i];
         }
+        //Required Value X is sum mod N.
         return (int)(sum%obj.N);
     }
 }
