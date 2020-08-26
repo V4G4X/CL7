@@ -32,7 +32,7 @@ public class CRTRunner {
         int[] a = new int[n];
         int[] m = new int[n];
 
-        inputLines(a,m);
+        inputArray(a,m);
 
         //Example One
 //        int[] a = {1, 1, 3};
