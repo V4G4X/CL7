@@ -45,7 +45,7 @@ public class CRT {
 
     private static int modInverse(int a, int r, int m){
         int b;
-        for(b = 1 ; (a*b)%m!=r ; ++b);
+        for(b = 1 ; (a*b)%m!=r ; ++b)   ;
         return b;
     }
 
