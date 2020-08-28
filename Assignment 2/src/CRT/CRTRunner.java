@@ -32,7 +32,10 @@ public class CRTRunner {
         int[] a = new int[n];
         int[] m = new int[n];
 
-        inputArray(a,m);
+        System.out.print("1.Enter via Array\n2.Enter line-by-line\nEnter 1/2 (Incorrect choice picks 1): ");
+        if(1 == sc.nextInt())
+            inputArray(a,m);
+        else inputLines(a,m);
 
         //Example One
 //        int[] a = {1, 1, 3};
