@@ -146,5 +146,5 @@ barplot(plotter, width = 0.02, xlab="data", names.arg = c("Train MSE","Test MSE"
 
 ## K fold cross validation
 ```{r}
-model = cv.lm(df, (Sales~TV+Radio+Newspaper), m=5)
+model = cv.lm(data_set, (Sales~TV+Radio+Newspaper), m=5)
 ```

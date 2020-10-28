@@ -102,5 +102,5 @@ plotter <- c(train_mse, test_mse)
 barplot(plotter, width = 0.02, xlab="data", names.arg = c("Train MSE","Test MSE"), ylab="error", main="Error (Subset)")
 
 # K fold cross validation
-model = cv.lm(df, (Sales~TV+Radio+Newspaper), m=5)
+model = cv.lm(data_set, (Sales~TV+Radio+Newspaper), m=5)
 
