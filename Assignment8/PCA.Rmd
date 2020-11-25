@@ -21,7 +21,7 @@ PCA_data$sdev^2
 PCA_data$loadings[,1:4]
 Eigen_data$vectors
 summary(PCA_data)
-biplot(PCA_data)
+#biplot(PCA_data)
 screeplot(PCA_data,type = "lines")
 ```
 
@@ -52,4 +52,3 @@ table(predict(mod1,iris[,1:4]),iris[,5])
 table(predict(mod2,model2_scores),iris[,5])
 
 ```
-
