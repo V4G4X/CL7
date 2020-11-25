@@ -4,7 +4,7 @@ library(tidyverse)
 
 
 # Reading transactions
-df <- read.transactions("C:/MyFolder/TE-IT/sem_7/CL7/Assign_7/Groceries.csv", sep=",")
+df <- read.transactions("D:/Labs/CL7/Assignment7/Dataset/Groceries.csv", sep=",")
 
 # View Transaction
 inspect(df[1:10])
@@ -37,12 +37,9 @@ rules = rules[!is.redundant(rules)]
 
 inspect(rules[1:10])
 
-#rules = apriori(df, parameter = list(supp = 0.001, conf = 0.8, maxlen = 7, minlen = 4), appearance = list(default = "lhs", rhs = "yogurt"))
-#inspect(rules[1:10])
 
 # Plot the graphs for the rules
 plot(rules, method = "graph", engine = "interactive")
 plot(rules, method = "paracoord")
 plot(rules, method = "matrix", control = list(reorder = "none"))
 plot(rules)
-
