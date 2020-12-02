@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04b3a028-05c5-4b10-b336-7a93b3381a2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assignment1/Output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/RSA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/RSA.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/.ipynb_checkpoints/SVM_diabetes-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment10/.ipynb_checkpoints/SVM_diabetes-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment10/SVM_diabetes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment10/SVM_diabetes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/6.5/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/6.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/Assignment 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment 2/CRT/CRT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment 2/CRT/CRTRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/CRT/CRT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/CRT/CRTRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Output1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Output2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/Assignment 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3/src/SHA1/SHA1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/Dataset/datasets_582088_1052144_Advertising.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/Practical 2 MSE.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/Practical 2 Regression Analysis.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/R Code/A6_Notebook.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/R Code/A6_Notebook.nb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/R Code/A6_Notebook_files/figure-latex/unnamed-chunk-8-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/R Code/A6_Notebook_files/figure-latex/unnamed-chunk-8-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/R Code/A6_Notebook_files/figure-latex/unnamed-chunk-8-3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/R Code/A6_code - Copy.r" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/R Code/A6_code.r" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/R Code/Advertising.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/R Code/Assignment6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/R Code/R Code.Rproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6/practical part B-2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Assignment7.Rproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Assignmnet no 3 Implementation code in R.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Code/.ipynb_checkpoints/Assignment7-checkpoint.r" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Code/.ipynb_checkpoints/Assignment7_nb-checkpoint.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Code/.ipynb_checkpoints/Assignment7_nb-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Code/Assignment7.r" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Code/Assignment7_nb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Code/Assignment7_nb.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Code/Assignment7_nb_files/MathJax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Code/Assignment7_nb_files/require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Code/Output.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Dataset/Groceries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Dataset/datasets_582088_1052144_Advertising.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/Practical 3 -market basket analysis final.ppt.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/practical part B-3.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment7/~$signmnet no 3 Implementation code in R.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/PCA.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/PCA.Rmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/PCA.Rproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment8/PCA.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment9/.ipynb_checkpoints/Assignment_4-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment9/Assignment_4.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment9/clustering _output.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1l5aTXxIhA8wiRitnAX2FBaLrB7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04b3a028-05c5-4b10-b336-7a93b3381a2d" name="Default Changelist" comment="" />
+      <created>1606889418806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606889418806</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
