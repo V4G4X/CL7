@@ -20,7 +20,7 @@ public class SHA1 {
             //Convert to Hex-Value
             String hash = bi.toString(16);
             //Pad with 0s on left until 32bit
-            while(hash.length() < 32) hash = "0"+hash;
+            while(hash.length() < 32) hash = "0".concat(hash);
             return hash;
         }
         catch (NoSuchAlgorithmException e){
